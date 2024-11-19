@@ -1,2 +1,2 @@
-# memory-allocation
+
 # processos-python
